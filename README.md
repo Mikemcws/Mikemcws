@@ -1,117 +1,49 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=600&size=38&duration=3000&pause=1000&color=66FF66&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Mike+Willian+%F0%9F%91%8B;Aspirante+a+Desenvolvedor+Back-end+%F0%9F%9A%80;De+Franca%2C+SP+%F0%9F%87%A7%F0%9F%87%B7;" alt="Typing SVG" />
-  </h1>
-
 <div align="center">
-  <a href="https://github.com/Mikemcws">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikemcws&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=false&line_height=25&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikemcws&layout=compact&langs_count=7&theme=dracula&hide_title=false&line_height=25&hide_border=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=MIKE%20WILLIAN&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=00FF00" />
+
+  ### ⚡ Desenvolvedor em Evolução ⚡
+  **Focado em Python, Lógica de Programação e Interfaces Web**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 </div>
 
-<p align="center">
-  Atualmente, sou um **aspirante a desenvolvedor Back-end** e estou imerso nos estudos, apaixonado por **montar estruturas** 🏗️ e ver o código em pleno funcionamento! ✨ Meu objetivo é criar soluções robustas e eficientes. Estou aprendendo **HTML, CSS e JavaScript**, com planos futuros de me aprofundar em **Node.js** e **Python**. Em breve, iniciarei meus estudos em Desenvolvimento de Software Multiplataforma na **FATEC**, buscando sempre aplicar meu conhecimento na prática e construir soluções de impacto. 💻🚀
-</p>
+---
+
+### 📋 Sobre Mim
+- 🐍 **Lógica & Programação:** Focado em dominar **Python** para automação e sistemas.
+- 🎨 **Desenvolvimento Web:** Experiência com a base da web: **HTML5** e **CSS3**.
+- 🛠️ **Ferramentas:** Uso diário de **PyCharm** e **VS Code** com controle de versão via **Git**.
+- 🚀 **Objetivo:** Criar aplicações que resolvam problemas reais enquanto decido minha especialização.
 
 ---
 
-## ⏰ Onde Me Encontro Agora
+### 🛠️ Minhas Tecnologias e Ferramentas
 
-<p align="center">
-  📚 Estudando **JavaScript** a fundo para Back-end.<br>
-  💡 Aprendendo sobre **Estrutura de Dados e Algoritmos**.<br>
-  ⚙️ Me preparando para iniciar a faculdade de **Desenvolvimento de Software Multiplataforma**.<br>
-  🎯 Focado(a) em construir meu primeiro projeto pessoal com **Node.js**.<br>
-  🌱 Buscando oportunidades para colocar meus conhecimentos em prática.
-</p>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Ambientes/IDEs** | ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Versionamento** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-## 🏆 Minhas Estatísticas e Troféus no GitHub
-
+### 📈 Estatísticas de Desenvolvedor
 <p align="center">
-  <a href="https://github.com/Mikemcws"><img src="https://github-profile-trophy.vercel.app/?username=Mikemcws&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" /></a>
-  <br>
-  <a href="https://github.com/Mikemcws"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikemcws&theme=dracula&hide_border=true" alt="GitHub Streak Stats" /></a>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikemcws/Mikemcws/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikemcws/Mikemcws/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mikemcws&show_icons=true&theme=terminal&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikemcws&layout=compact&langs_count=7&theme=terminal&locale=pt-br" />
 </p>
 
----
-
-## 🛠️ Minhas Tecnologias & Ferramentas
-
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/></a>
-  </p>
-
----
-
-## 🚀 Próximas Metas e O que Vem por Aí
-
-<p align="center">
-  📈 Aprofundar conhecimentos em **Node.js** e criar uma API REST completa.<br>
-  ✨ Iniciar estudos em **bancos de dados** (SQL e NoSQL) para persistência de dados.<br>
-  📊 Contribuir para projetos open source e colaborar com a comunidade.<br>
-  📚 Explorar frameworks e bibliotecas avançadas de JavaScript (ex: React, Vue).<br>
-  💡 Desenvolver um projeto full-stack para aplicar todo o conhecimento adquirido.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikemcws&theme=terminal" />
 </p>
-
----
-
-## 💻 Meus Projetos
-
-<p align="center">
-  Aqui estão alguns dos projetos em que estou trabalhando ou que já concluí durante meus estudos. Cada projeto é uma etapa na minha jornada de aprendizado! 👇
-</p>
-
-<details>
-  <summary>**📱 Projeto: App**</summary>
-  <br>
-  - 🚀 Meu primeiro projeto explorando a lógica de programação com **JavaScript**.
-  - 💻 Este projeto demonstra o uso de **[descreva brevemente o que o app.js faz, ex: manipulação de arrays, funções matemáticas, interação com o console]**.
-  - **🌟 Principais Features:** [Ex: Validação de entrada, cálculos simples, interação via console]
-  - **📚 Aprendizados:** [Ex: Uso de estruturas condicionais, variáveis e funções em JS, organização de código]
-  - **🚧 Status:** [Ex: Concluído, Em desenvolvimento, Em refatoração]
-  - ➡️ **Repositório:** <a href="https://github.com/Mikemcws/App" target="_blank">Visite o Projeto</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Arrows/Right%20Arrow.png" alt="Right Arrow" width="18" height="18" />
-  - <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></code>
-  </details>
-
-
-
-<p align="center">
-  <br>
-  <i>E muitos mais em breve! Fique de olho no meu perfil para acompanhar minha evolução e novos projetos.</i> ✨
-</p>
-
----
-
-## 👋 Vamos nos Conectar!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mikewilliansilvacacique/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:caciqye@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mikemcws&color=blue" alt="Profile views" />
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikemcws/Mikemcws/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikemcws/Mikemcws/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=terminal" />
+</div>
+![snake github contribution grid snake animation](https://github.com/Mikemcws/Mikemcws/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mikemcws&label=VISITAS%20AO%20PERFIL&color=00ff00&style=flat" alt="Views" />
 </div>
