@@ -1,40 +1,108 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=MIKE%20WILLIAN&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=00FF00" />
 
-  ### ⚡ Entusiasta em Desenvolvimento de Software ⚡
-  **Focado em Python, Lógica de Programação e Interfaces Web**
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikewilliansilvacacique)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mike%20Willian&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20Jr%20em%20Forma%C3%A7%C3%A3o&descAlignY=60&descAlign=50" />
+
+# 👨‍💻 Mike Willian
+
+### 🚀 Desenvolvedor Full Stack Jr em formação
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Focado em desenvolvimento web moderno e construção de projetos reais
+🔥 Evoluindo diariamente em Front-end e Full Stack
+
+<br>
+
+<a href="https://www.linkedin.com/in/mikewillian-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mikemcws">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-### 🐍 Jogo da Cobrinha (Minhas Contribuições)
+# 📋 Sobre Mim
+
+Atualmente cursando Análise e Desenvolvimento de Sistemas e construindo minha trajetória na área de desenvolvimento Full Stack.
+
+Venho desenvolvendo projetos práticos utilizando HTML, CSS, JavaScript, TypeScript, React e Node.js, sempre buscando evoluir através de aplicações reais e aprendizado constante.
+
+Tenho grande interesse em:
+
+* Desenvolvimento Web
+* Interfaces modernas
+* APIs
+* Front-end
+* Full Stack
+* Tecnologia e inovação
+
+---
+
+# 🚀 Tecnologias em evolução
+
 <div align="center">
-  <img src="https://github.com/Mikemcws/Mikemcws/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<img align="center" alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="TypeScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="center" alt="React" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="center" alt="NodeJS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="center" alt="VSCode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
 </div>
 
 ---
 
-### 📋 Sobre Mim
-- 🐍 **Lógica & Programação:** Focado em dominar **Python** para automação e sistemas.
-- 🎨 **Desenvolvimento Web:** Experiência com a base da web: **HTML5** e **CSS3**.
-- 🛠 **Ferramentas:** Uso diário de **PyCharm** e **VS Code** com controle de versão via **Git**.
-- 🚀 **Objetivo:** Evoluir constantemente na área de tecnologia, unindo design de interface com lógica de programação.
+# 📈 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikemcws&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikemcws&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
 
 ---
 
-### 🛠️ Minhas Tecnologias e Ferramentas
+# 🐍 Minhas Contribuições
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Ambientes** | ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| **Versionamento** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+<div align="center">
+
+<img src="https://github.com/Mikemcws/Mikemcws/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
+</div>
 
 ---
 
-### 📈 Estatísticas de Desenvolvedor
-<p align="center">
-  <img width="48%" src="https
+# 🎯 Objetivos
+
+✅ Evoluir como Desenvolvedor Full Stack
+✅ Construir aplicações modernas e responsivas
+✅ Desenvolver projetos reais
+✅ Fortalecer meu portfólio profissional
+✅ Conquistar minha primeira oportunidade na área de tecnologia
+
+---
+
+# 🌎 Onde me encontrar
+
+📌 LinkedIn:
+https://www.linkedin.com/in/mikewillian-dev
+
+📌 GitHub:
+https://github.com/Mikemcws
+
+---
+
+<div align="center">
+
+### ⚡ Transformando aprendizado em projetos reais ⚡
+
+</div>
