@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mike%20Willian&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20Jr%20em%20Forma%C3%A7%C3%A3o&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mike%20Willian&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20Forma%C3%A7%C3%A3o&descAlignY=60&descAlign=50" />
 
 # 👨‍💻 Mike Willian
 
-### 🚀 Desenvolvedor Full Stack Jr em formação
+### 🚀 Desenvolvedor Full Stack em formação
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Focado em desenvolvimento web moderno e construção de projetos reais
-🔥 Evoluindo diariamente em Front-end e Full Stack
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em desenvolvimento web moderno e construção de projetos reais  
+🔥 Evoluindo diariamente em Front-end e fundamentos Full Stack
 
 <br>
 
@@ -28,7 +28,7 @@
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas e construindo minha trajetória na área de desenvolvimento Full Stack.
 
-Venho desenvolvendo projetos práticos utilizando HTML, CSS, JavaScript, TypeScript, React e Node.js, sempre buscando evoluir através de aplicações reais e aprendizado constante.
+Venho desenvolvendo projetos práticos utilizando HTML, CSS e JavaScript, enquanto aprofundo meus estudos em tecnologias do ecossistema Full Stack como React, Node.js e TypeScript.
 
 Tenho grande interesse em:
 
@@ -48,12 +48,21 @@ Tenho grande interesse em:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="NodeJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VSCode"/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="NodeJS"/>
 
 </div>
 
@@ -83,20 +92,20 @@ Tenho grande interesse em:
 
 # 🎯 Objetivos
 
-✅ Evoluir como Desenvolvedor Full Stack
-✅ Construir aplicações modernas e responsivas
-✅ Desenvolver projetos reais
-✅ Fortalecer meu portfólio profissional
+✅ Evoluir como Desenvolvedor Full Stack  
+✅ Construir aplicações modernas e responsivas  
+✅ Desenvolver projetos reais  
+✅ Fortalecer meu portfólio profissional  
 ✅ Conquistar minha primeira oportunidade na área de tecnologia
 
 ---
 
 # 🌎 Onde me encontrar
 
-📌 LinkedIn:
+📌 LinkedIn:  
 https://www.linkedin.com/in/mikewillian-dev
 
-📌 GitHub:
+📌 GitHub:  
 https://github.com/Mikemcws
 
 ---
