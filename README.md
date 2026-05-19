@@ -1,56 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mike%20Willian&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20Forma%C3%A7%C3%A3o&descAlignY=60&descAlign=50" />
+# 🚀 Mike Willian
 
-# 👨‍💻 Mike Willian
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=850&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Front-end+Developer;Estudante+de+ADS;React+%7C+JavaScript+%7C+Node.js;Construindo+solu%C3%A7%C3%B5es+web+modernas;Open+to+Work+🚀" />
 
-### 🚀 Desenvolvedor Full Stack em formação
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em desenvolvimento web moderno e construção de projetos reais  
-🔥 Evoluindo diariamente em Front-end e fundamentos Full Stack
-
-<br>
-
-<a href="https://www.linkedin.com/in/mikewillian-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Mikemcws">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:8BE9FD&height=180&section=header&text=Welcome!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
 ---
 
-# 📋 Sobre Mim
+# 👨‍💻 Sobre mim
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas e construindo minha trajetória na área de desenvolvimento Full Stack.
+```bash
+> whoami
 
-Venho desenvolvendo projetos práticos utilizando HTML, CSS e JavaScript, enquanto aprofundo meus estudos em tecnologias do ecossistema Full Stack como React, Node.js e TypeScript.
+Mike Willian
 
-Tenho grande interesse em:
+> current_status
 
-* Desenvolvimento Web
-* Interfaces modernas
-* APIs
-* Front-end
-* Full Stack
-* Tecnologia e inovação
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Full Stack Developer em formação
+🚀 Bolsista Santander Bootcamp 2026
+📚 Estudando React, Node.js e IA aplicada
+🎯 Em busca da primeira oportunidade tech
+```
 
 ---
 
-# 🚀 Tecnologias em evolução
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VSCode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
 
 </div>
 
@@ -60,58 +42,184 @@ Tenho grande interesse em:
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="NodeJS"/>
+| Tecnologia | Nível |
+|---|---|
+| HTML5 | ██████████ |
+| CSS3 | █████████░ |
+| JavaScript | ████████░░ |
+| React.js | ██████░░░░ |
+| Node.js | █████░░░░░ |
+| Git & GitHub | ████████░░ |
 
 </div>
 
 ---
 
-# 📈 Estatísticas GitHub
+# 🎓 Formação
+
+## 💻 DEVCLUB — Formação Full Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- Git & GitHub
+- APIs REST
+- Responsividade
+- Projetos práticos
+
+---
+
+## 🎓 UNIUBE — Análise e Desenvolvimento de Sistemas
+
+Graduação focada em:
+
+- Desenvolvimento de Software
+- Banco de Dados
+- Lógica de Programação
+- Arquitetura de Sistemas
+- Desenvolvimento Web
+
+---
+
+## 🏆 Santander Bootcamp 2026 — AI React Front-end
+
+Programa intensivo promovido pelo Santander Open Academy em parceria com a DIO.
+
+### Tecnologias abordadas:
+
+- React 19
+- JavaScript
+- Vite
+- Git e GitHub
+- Inteligência Artificial aplicada
+- Projetos práticos
+- Desafios técnicos
+- Mentorias ao vivo
+
+---
+
+# 🚀 Objetivos
+
+```yaml
+Carreira:
+  - Desenvolvedor Full Stack
+  - Especialização em Front-end
+  - Construção de projetos reais
+  - Evolução contínua
+  - Primeira oportunidade tech
+```
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikemcws&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikemcws&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
 
 ---
 
-# 🐍 Minhas Contribuições
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github.com/Mikemcws/Mikemcws/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=dracula&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Objetivos
+# 🧠 Learning Progress
 
-✅ Evoluir como Desenvolvedor Full Stack  
-✅ Construir aplicações modernas e responsivas  
-✅ Desenvolver projetos reais  
-✅ Fortalecer meu portfólio profissional  
-✅ Conquistar minha primeira oportunidade na área de tecnologia
+<div align="center">
+
+```text
+HTML/CSS       ███████████░░░  85%
+JavaScript     █████████░░░░░  70%
+React.js       ██████░░░░░░░░  50%
+Node.js        █████░░░░░░░░░  40%
+Git/GitHub     ████████░░░░░░  65%
+```
+
+</div>
 
 ---
 
-# 🌎 Onde me encontrar
+# 🌎 Conecte-se comigo
 
-📌 LinkedIn:  
-https://www.linkedin.com/in/mikewillian-dev
+<div align="center">
 
-📌 GitHub:  
-https://github.com/Mikemcws
+<a href="www.linkedin.com/in/mikewillian-dev">
+<img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=BD93F9"/>
+</a>
+
+<a href="https://github.com/Mikemcws">
+<img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=BD93F9"/>
+</a>
+
+<a href="caciqye@hotmail.com">
+<img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=BD93F9"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 Open To Work
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-50FA7B?style=for-the-badge&logo=vercel&logoColor=282A36"/>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+const mike = {
+    foco: "Desenvolvimento Web",
+    estudando: [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "IA aplicada"
+    ],
+    objetivo: "Primeira oportunidade como Dev Jr 🚀"
+}
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💜 Frase
+
+<div align="center">
+
+### _"Transformando aprendizado em projetos e projetos em oportunidades."_ 🚀
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Transformando aprendizado em projetos reais ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:8BE9FD&height=120&section=footer"/>
 
 </div>
