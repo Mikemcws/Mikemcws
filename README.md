@@ -47,8 +47,8 @@ Mike Willian
 | HTML5 | ██████████ |
 | CSS3 | █████████░ |
 | JavaScript | ████████░░ |
-| React.js | ██████░░░░ |
-| Node.js | █████░░░░░ |
+| React.js | ░░░░ |
+| Node.js | ░░░░░ |
 | Git & GitHub | ████████░░ |
 
 </div>
